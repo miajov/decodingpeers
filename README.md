@@ -2,7 +2,7 @@
 
 Main script for MVPA analysis presented at ICA 2022, Paris
 
-*Mia Jovanova & Dani Cosme
+*Mia Jovanova & Dani Cosme*
 
 Notebook outline: 
 
